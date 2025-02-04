@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Leanne",
+      "email": "LGraham@april.biz"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Ervin",
+      "email": "EHowell@melissa.tv"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Clementine",
+      "email": "CBauch@yesenia.net"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Patricia",
+      "email": "PLebsack@kory.org"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Chelsey",
+      "email": "CDietrich@annie.ca"
+    }
+  ]

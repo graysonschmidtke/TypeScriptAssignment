@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "title": "Post Malone Concert",
+      "num_attendees": 2
+    },
+    {
+      "id": 2,
+      "title": "Chicken Tendies Finals At Wendies and Freddys",
+      "num_attendees": 30000
+    }
+]
